@@ -6,5 +6,8 @@ Este repositório possui o intuito de conter todos os artefatos gerados pela Ati
 Fork do Projeto Original para Melhorias 1 e 2:
 https://github.com/eafonso/mastra
 
+Repositório Original:
+https://github.com/mastra-ai/mastra
+
 Link do Vídeo:
 [Carlos_Santos_Deborah_Sales_Eduardo_Silva_Guilherme_Carvalho_Marcelo_Lima_Mikael_Farias_Rai_Silva_Atividade_3_parte2.mp4](https://drive.google.com/file/d/1jQm3HR-Pqf3uHP1o-TdqcAJMR0d_j24t/view?usp=drive_link)
